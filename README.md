@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BakimArizaApp](https://github.com/MahirKaan?tab=repositories)
 
-- 🌱 I’m currently learning **React Native, TypeScript, Redux Toolkit ve Firebase**
+- 🌱 I’m currently learning **React Native, TypeScript, Redux Toolkit and Firebase**
 
 - 👯 I'm looking to collaborate on **open-source React Native projects**
 
